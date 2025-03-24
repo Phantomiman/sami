@@ -1,0 +1,14 @@
+{
+    "rpc_url": "https://api.mainnet-beta.solana.com",
+    "profit_threshold": 0.003,
+    "max_trade_amount": 0.1,
+    "trading_pairs": [
+        ["So11111111111111111111111111111111111111112", "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v"],
+        ["EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v", "Es9vMFrzaCERmJfrF4H2FYD4KCoNkY11McCe8BenwNYB"],
+        ["Es9vMFrzaCERmJfrF4H2FYD4KCoNkY11McCe8BenwNYB", "So11111111111111111111111111111111111111112"]
+    ],
+    "jupiter_url": "https://quote-api.jup.ag/v6",
+    "slippage_bps": 50,
+    "max_retries": 5,
+    "retry_delay": 0.1
+}
